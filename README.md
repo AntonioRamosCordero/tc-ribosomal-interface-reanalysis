@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Exploratory structural bioinformatics analysis of ribosomal S6 interfaces in *Trypanosoma cruzi*
 
 This project began as an exploratory attempt to identify electrostatic hotspots and structurally interesting regions in a predicted ribosomal S6 protein from *Trypanosoma cruzi* using structural bioinformatics approaches.
@@ -37,10 +36,3 @@ and not as evidence of a validated therapeutic target or experimentally confirme
 **Author:** Antonio Ramos Cordero  
 Undergraduate student in Biochemistry  
 Universidad de Antofagasta
-EOF
-
-git add README.md
-
-git commit -m "Clean README footer"
-
-git push
