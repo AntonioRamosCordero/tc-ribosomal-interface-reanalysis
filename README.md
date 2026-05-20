@@ -1,8 +1,9 @@
-# Exploratory Structural Bioinformatics Analysis of Ribosomal Interfaces in Trypanosoma cruzi
+# Exploratory structural bioinformatics analysis of ribosomal S6 interfaces in *Trypanosoma cruzi*
 
-This project started as an exploratory attempt to identify electrostatic hotspots and potentially interesting structural regions in a predicted ribosomal protein from Trypanosoma cruzi using structural bioinformatics tools.
+This project began as an exploratory attempt to identify electrostatic hotspots and structurally interesting regions in a predicted ribosomal S6 protein from *Trypanosoma cruzi* using structural bioinformatics approaches.
 
-During the project, the workflow evolved considerably and eventually included:
+During the project, the workflow evolved considerably and ultimately incorporated:
+
 - APBS electrostatic calculations
 - pocket prediction
 - SASA analysis
@@ -11,24 +12,27 @@ During the project, the workflow evolved considerably and eventually included:
 - cryo-EM structural reevaluation
 - rRNA interface analysis
 
-One important aspect of this work is that several initial hypotheses weakened after deeper structural validation against experimental cryo-EM ribosome structures. Because of this, the project gradually shifted from a potential “drug target discovery” perspective toward a more critical comparative structural analysis workflow.
+An important aspect of this work is that several initial hypotheses became weakened after deeper structural validation using experimentally resolved ribosomal cryo-EM structures. Because of this, the project gradually shifted from a possible “drug target discovery” perspective toward a more critical comparative structural analysis workflow.
 
-Although no therapeutic target was validated, the project became valuable as a learning and methodological process involving:
+Although no therapeutic target was validated, the project became valuable as a methodological and learning process involving:
+
 - reproducible computational pipelines
 - structural validation strategies
 - comparative electrostatics
 - protein–RNA interface analysis
-- critical reinterpretation of docking results
+- critical reinterpretation of docking observations
 
-The repository is therefore intended primarily as:
+Therefore, this repository is intended primarily as:
+
 - an exploratory structural bioinformatics project
 - a reproducible computational workflow
 - a comparative structural dataset
-- a record of methodological development and reevaluation
+- a record of methodological development and structural reevaluation
 
 and not as evidence of a validated therapeutic target or experimentally confirmed inhibitor.
 
-Author:
-Antonio Ramos Cordero
-Undergraduate Biochemistry Student
+---
+
+**Author:** Antonio Ramos Cordero  
+Undergraduate student in Biochemistry  
 Universidad de Antofagasta
