@@ -1,12 +1,13 @@
+cat > README.md << 'EOF'
 # Exploratory structural bioinformatics analysis of ribosomal S6 interfaces in *Trypanosoma cruzi*
 
 This project began as an exploratory attempt to identify electrostatic hotspots and structurally interesting regions in a predicted ribosomal S6 protein from *Trypanosoma cruzi* using structural bioinformatics approaches.
 
 During the project, the workflow evolved considerably and ultimately incorporated:
 
-- APBS electrostatic calculations
+- APBS-based electrostatic calculations
 - pocket prediction
-- SASA analysis
+- solvent-accessible surface area (SASA) analysis
 - docking and counter-docking
 - comparison against human RPS6
 - cryo-EM structural reevaluation
@@ -36,3 +37,10 @@ and not as evidence of a validated therapeutic target or experimentally confirme
 **Author:** Antonio Ramos Cordero  
 Undergraduate student in Biochemistry  
 Universidad de Antofagasta
+EOF
+
+git add README.md
+
+git commit -m "Improve README terminology and clarity"
+
+git push
