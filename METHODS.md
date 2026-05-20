@@ -1,27 +1,25 @@
 # Methods Overview
 
-## Structural focus
+## Structural datasets
 
-This cleaned repository focuses on ribosomal S6 proteins in experimentally resolved ribosomal contexts.
+This project focuses on ribosomal S6 proteins extracted from experimentally resolved ribosomal cryo-EM structures.
 
-The main structural inputs are:
+Main structural references:
 
 - 5OPT chain P: *Trypanosoma cruzi* ribosomal S6
 - 7R4X chain G: human RPS6
 
-Earlier exploratory AlphaFold-derived analyses were removed from the public working version to avoid mixing ambiguous preliminary models with the final cryoEM-centered analysis.
+## Structural bioinformatics workflow
 
-## Planned analyses
+The repository is intended to support reproducible exploratory analyses involving:
 
-The cleaned workflow is intended to support:
-
-- structural comparison of parasite and human ribosomal S6
-- rRNA-interface analysis
-- solvent-accessible surface area analysis
-- electrostatic calculations
-- pocket/interface characterization
-- cautious comparative interpretation
+- electrostatic characterization
+- solvent-accessible surface area (SASA) analysis
+- ribosomal interface analysis
+- RNA-contact mapping
+- comparative structural analysis
+- pocket and surface characterization
 
 ## Interpretation
 
-This project is exploratory and methodological. It does not claim experimental validation of a therapeutic target or inhibitor.
+This repository represents an exploratory structural bioinformatics workflow and does not claim experimental validation of a therapeutic target or inhibitor.
