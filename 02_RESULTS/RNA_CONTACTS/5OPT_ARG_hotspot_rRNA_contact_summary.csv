@@ -1,0 +1,4 @@
+hotspot_residue,n_rRNA_contacts,min_distance_A,contacted_rRNA
+ARG152,8,3.321,U145; U146
+ARG162,11,3.27,G76; U75
+ARG163,13,3.384,A68; U66
