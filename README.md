@@ -16,7 +16,7 @@ The workflow is centered on:
 - structural comparison between parasite and human ribosomal contexts
 - reproducible structural bioinformatics workflows
 
-This repository is intended as an exploratory and methodological structural bioinformatics project and should not be interpreted as evidence of a validated therapeutic target or experimentally confirmed inhibitor.
+This repository contains an exploratory structural bioinformatics workflow focused on comparative analysis of ribosomal S6 proteins in experimentally resolved cryo-EM ribosomal structures.
 
 ---
 

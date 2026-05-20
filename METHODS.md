@@ -22,4 +22,4 @@ The repository is intended to support reproducible exploratory analyses involvin
 
 ## Interpretation
 
-This repository represents an exploratory structural bioinformatics workflow and does not claim experimental validation of a therapeutic target or inhibitor.
+This repository contains an exploratory structural bioinformatics workflow focused on comparative analysis of ribosomal S6 proteins in experimentally resolved cryo-EM ribosomal structures.
