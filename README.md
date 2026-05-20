@@ -1,25 +1,44 @@
-# Cryo-EM-based structural analysis of ribosomal S6 interfaces in *Trypanosoma cruzi*
+# Structural bioinformatics analysis of ribosomal S6 interfaces in *Trypanosoma cruzi*
 
-This repository contains an exploratory structural bioinformatics analysis of ribosomal S6 proteins in experimentally resolved ribosomal contexts.
+This repository contains an exploratory structural bioinformatics analysis focused on ribosomal S6 proteins from *Trypanosoma cruzi* and human ribosomes using experimentally resolved cryoEM structures.
 
-The project focuses on comparative structural analysis of:
+The project explores:
 
-- *Trypanosoma cruzi* ribosomal S6 extracted from the 5OPT cryo-EM ribosome structure
-- human RPS6 extracted from the 7R4X cryo-EM ribosome structure
+- structural organization of ribosomal S6 proteins
+- electrostatic properties
+- solvent accessibility
+- RNA-contact interfaces
+- comparative structural analysis
+- exploratory surface cavity characterization
 
-The workflow is centered on:
+Particular emphasis was placed on comparing structurally exposed regions and interface environments between parasite and human ribosomal S6 proteins.
 
-- comparative ribosomal S6 interface analysis
-- electrostatic characterization
-- solvent-accessible surface area (SASA) analysis
-- RNA-interface mapping
-- structural comparison between parasite and human ribosomal contexts
-- reproducible structural bioinformatics workflows
+The repository includes:
 
-This repository contains an exploratory structural bioinformatics workflow focused on comparative analysis of ribosomal S6 proteins in experimentally resolved cryo-EM ribosomal structures.
+- experimentally resolved cryoEM-derived ribosomal S6 structures
+- RNA-contact analyses
+- residue-level SASA calculations
+- comparative structural datasets
+- reproducible structural bioinformatics scripts
 
----
+## Structures used
 
-**Author:** Antonio Ramos Cordero  
+### *Trypanosoma cruzi*
+- CryoEM ribosome structure: PDB 5OPT
+- Ribosomal S6 chain extracted from experimentally resolved ribosome structure
+
+### Human
+- CryoEM ribosome structure: PDB 7R4X
+- Human RPS6 chain extracted from experimentally resolved ribosome structure
+
+## Repository organization
+
+- `01_INPUT/` → experimentally resolved input structures
+- `02_RESULTS/` → structural analysis outputs
+- `03_SCRIPTS/` → reproducible analysis scripts
+- `04_FIGURES/` → figures and visualizations
+- `05_COMPARISON/` → comparative structural datasets
+
+Author: Antonio Ramos Cordero  
 Undergraduate student in Biochemistry  
 Universidad de Antofagasta
