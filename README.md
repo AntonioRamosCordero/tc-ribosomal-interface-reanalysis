@@ -41,6 +41,6 @@ EOF
 
 git add README.md
 
-git commit -m "Improve README terminology and clarity"
+git commit -m "Clean README footer"
 
 git push
