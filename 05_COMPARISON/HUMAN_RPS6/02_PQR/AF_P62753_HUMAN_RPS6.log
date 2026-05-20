@@ -1,0 +1,21 @@
+2026-05-19 02:41:00,600 INFO:main.py:240:print_splash_screen:PDB2PQR v3.6.1: biomolecular structure conversion software.
+2026-05-19 02:41:00,601 INFO:main.py:242:print_splash_screen:Please cite:  Jurrus E, et al.  Improvements to the APBS biomolecular solvation software suite.  Protein Sci 27 112-128 (2018).
+2026-05-19 02:41:00,601 INFO:main.py:242:print_splash_screen:Please cite:  Dolinsky TJ, et al.  PDB2PQR: expanding and upgrading automated preparation of biomolecular structures for molecular simulations. Nucleic Acids Res 35 W522-W525 (2007).
+2026-05-19 02:41:00,602 INFO:main.py:759:main_driver:Checking and transforming input arguments.
+2026-05-19 02:41:00,606 INFO:main.py:763:main_driver:Loading topology files.
+2026-05-19 02:41:00,640 INFO:main.py:765:main_driver:Loading molecule: 05_COMPARISON/HUMAN_RPS6/01_INPUT/AF_P62753_HUMAN_RPS6.pdb
+2026-05-19 02:41:00,680 INFO:main.py:770:main_driver:Setting up molecule.
+2026-05-19 02:41:00,685 INFO:main.py:408:setup_molecule:Created biomolecule object with 249 residues and 2013 atoms.
+2026-05-19 02:41:00,685 INFO:main.py:774:main_driver:Setting termini states for biomolecule chains.
+2026-05-19 02:41:00,688 INFO:main.py:604:non_trivial:Loading forcefield.
+2026-05-19 02:41:00,704 INFO:main.py:608:non_trivial:Loading hydrogen topology definitions.
+2026-05-19 02:41:00,711 INFO:main.py:459:is_repairable:This biomolecule is clean.  No repair needed.
+2026-05-19 02:41:00,711 INFO:main.py:623:non_trivial:Updating disulfide bridges.
+2026-05-19 02:41:00,712 INFO:main.py:626:non_trivial:Debumping biomolecule.
+2026-05-19 02:41:00,742 INFO:main.py:649:non_trivial:Adding hydrogens to biomolecule.
+2026-05-19 02:41:00,850 INFO:main.py:652:non_trivial:Debumping biomolecule (again).
+2026-05-19 02:41:00,973 INFO:main.py:654:non_trivial:Optimizing hydrogen bonds
+2026-05-19 02:41:01,128 INFO:main.py:666:non_trivial:Applying force field to biomolecule states.
+2026-05-19 02:41:01,130 INFO:main.py:713:non_trivial:Regenerating headers.
+2026-05-19 02:41:01,131 INFO:main.py:738:non_trivial:Regenerating PDB lines.
+2026-05-19 02:41:01,146 WARNING:main.py:311:print_pqr:Ignoring 391 header lines in output.

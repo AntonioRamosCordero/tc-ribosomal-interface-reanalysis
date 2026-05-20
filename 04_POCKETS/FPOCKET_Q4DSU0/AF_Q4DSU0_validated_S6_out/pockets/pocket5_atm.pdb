@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1125
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0084
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5753
+HEADER 5  - Mean B-factor of pocket residues  : 0.9592
+HEADER 6  - Hydrophobicity Score              : -10.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 395.6731
+HEADER 10 - Pocket volume (convex hull)       : 8.2776
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM   1791   CG GLN A 225      64.331 -21.661 -28.616  0.00  0.00           C 0
+ATOM   1761   NE ARG A 221      59.512 -21.247 -30.321  0.39  2.19           N 0
+ATOM   1759   CG ARG A 221      59.943 -20.877 -27.896  0.00  0.00           C 0
+ATOM   1793  NE2 GLN A 225      63.020 -21.181 -30.631  0.57  7.66           N 0
+ATOM   1760   CD ARG A 221      58.992 -20.646 -29.076  0.00  0.00           C 0
+ATOM   1783  NH1 ARG A 224      59.316 -26.935 -24.498  0.00  0.00           N 0
+ATOM   1781   CD ARG A 224      61.905 -25.651 -24.456  0.00  0.00           C 0
+ATOM   1758    O ARG A 221      62.628 -20.676 -25.839  0.00  0.00           O 0
+ATOM   1754    N ARG A 221      59.685 -19.966 -24.173  0.00  0.00           N 0
+ATOM   1757   CB ARG A 221      59.385 -20.245 -26.608  0.00  0.00           C 0
+ATOM   1755   CA ARG A 221      60.306 -20.491 -25.401  0.00  0.00           C 0
+ATOM   1784  NH2 ARG A 224      58.727 -25.878 -22.628  0.00  0.00           N 0
+ATOM   1785   CZ ARG A 224      59.624 -26.098 -23.547  0.00  0.00           C 0
+ATOM   1782   NE ARG A 224      60.797 -25.490 -23.493  0.00  0.00           N 0
+ATOM   1724    O GLY A 217      56.948 -19.011 -24.579  0.63  3.21           O 0
+ATOM   1746   CB ARG A 220      58.253 -20.331 -21.314  0.00  0.00           C 0
+ATOM   1722   CA GLY A 217      54.746 -18.596 -23.738  0.00  0.00           C 0
+ATOM   1749   CD ARG A 220      56.563 -20.831 -19.521  0.00  0.00           C 0
+TER
+END

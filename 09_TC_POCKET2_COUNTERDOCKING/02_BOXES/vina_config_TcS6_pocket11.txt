@@ -1,0 +1,13 @@
+receptor = 09_TC_POCKET2_COUNTERDOCKING/00_RECEPTORS/TcS6_Q4DSU0_receptor.pdbqt
+
+center_x = 65.019
+center_y = -23.900
+center_z = -22.282
+
+size_x = 22.492
+size_y = 18.540
+size_z = 16.784
+
+exhaustiveness = 8
+num_modes = 9
+energy_range = 3

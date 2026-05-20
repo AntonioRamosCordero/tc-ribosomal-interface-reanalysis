@@ -1,0 +1,4 @@
+resid,resname,n_atoms,mean_ARG_functional_APBS,median_ARG_functional_APBS,min_ARG_functional_APBS,max_ARG_functional_APBS
+152,ARG,4,-180.349225,-253.73665,-371.2784,157.3548
+162,ARG,4,-139.78764999999999,-221.6419,-352.6123,236.7455
+163,ARG,4,-193.39565,-245.0362,-464.6481,181.1379

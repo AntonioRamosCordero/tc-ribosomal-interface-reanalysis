@@ -1,0 +1,5 @@
+TcS6_length: 250
+Human_RPS6_length: 249
+aligned_CA_pairs: 135
+sequence_identity_on_aligned_pairs: 1.0
+global_CA_RMSD_after_alignment_A: 6.663275299087098

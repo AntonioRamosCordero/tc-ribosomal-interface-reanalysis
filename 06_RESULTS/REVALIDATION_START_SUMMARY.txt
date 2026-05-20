@@ -1,0 +1,24 @@
+Revalidation started after detecting that the previous model Q4DZA7 was an uncharacterized 160-aa protein, not the canonical 40S ribosomal protein S6.
+
+New primary computational model:
+AF-Q4DSU0-F1-model_v6.pdb
+UniProt: Q4DSU0
+Protein: 40S ribosomal protein S6
+Organism: Trypanosoma cruzi strain CL Brener
+Length: ~250 aa
+
+Experimental reference:
+5OPT chain P
+Protein: 40S ribosomal protein S6
+Gene: Tc00.1047053510769.49
+Context: T. cruzi CL Brener 40S ribosome cryo-EM
+
+Previous model:
+Q4DZA7 / Tc00.1047053504105.60 / uncharacterized protein / 160 aa
+This is no longer treated as canonical S6.
+
+Immediate goal:
+Test whether the hotspot identified previously has an equivalent, structurally meaningful region in validated S6/Q4DSU0:
+Q4DZA7 ARG100 -> 5OPT/Q4DSU0 ARG152
+Q4DZA7 ARG105 -> 5OPT/Q4DSU0 ARG162
+Q4DZA7 ARG106 -> 5OPT/Q4DSU0 ARG163

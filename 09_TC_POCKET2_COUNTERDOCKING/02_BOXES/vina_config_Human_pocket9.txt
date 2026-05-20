@@ -1,0 +1,13 @@
+receptor = 09_TC_POCKET2_COUNTERDOCKING/00_RECEPTORS/Human_RPS6_receptor.pdbqt
+
+center_x = -36.893
+center_y = 14.242
+center_z = 79.632
+
+size_x = 18.753
+size_y = 16.000
+size_z = 19.361
+
+exhaustiveness = 8
+num_modes = 9
+energy_range = 3

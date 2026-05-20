@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large APBS grids
+*.dx
+
+# Docking outputs
+*_out.pdbqt
+
+# Temporary logs
+*_log.txt
+
+# fpocket temporary files
+*.pqr
+*.pdbqt
+
+# Conda / environments
+.env
+.venv
+
+# System
+.DS_Store
+Thumbs.db
+
+# Large temporary docking folders
+09_TC_POCKET2_COUNTERDOCKING/04_DOCKING/
+
+# Trash
+TEMP_TRASH/
+
+# Jupyter
+.ipynb_checkpoints/

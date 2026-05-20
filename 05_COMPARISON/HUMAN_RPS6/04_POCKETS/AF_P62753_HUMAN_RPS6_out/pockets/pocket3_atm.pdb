@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.1976
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0587
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6645
+HEADER 5  - Mean B-factor of pocket residues  : 0.9548
+HEADER 6  - Hydrophobicity Score              : 17.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 315.7791
+HEADER 10 - Pocket volume (convex hull)       : 11.4844
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    297    N ALA A  37       8.154  16.552 -22.394  0.81  4.37           N 0
+ATOM    291   CA VAL A  36       8.666  16.481 -20.015  0.00  0.00           C 0
+ATOM    249   NZ LYS A  30      13.624  21.369 -19.019  0.00  0.00           N 0
+ATOM    285    O GLU A  35       7.913  18.462 -18.124  0.74  7.50           O 0
+ATOM    248   CE LYS A  30      13.918  19.937 -18.765  0.00  0.00           C 0
+ATOM    195    O ARG A  25      18.347  16.551 -21.334  0.00  0.00           O 0
+ATOM    224    O TYR A  28      17.679  18.242 -17.723  0.00  0.00           O 0
+ATOM    206    O THR A  26      14.694  16.699 -20.603  0.52  1.07           O 0
+ATOM    207  CG2 THR A  26      13.513  16.149 -23.499  0.00  0.00           C 0
+ATOM    295  CG1 VAL A  36      11.048  15.974 -20.743  0.00  0.00           C 0
+ATOM    296  CG2 VAL A  36      10.608  16.350 -18.353  0.00  0.00           C 0
+ATOM    203   CA THR A  26      15.892  15.973 -22.562  0.00  0.00           C 0
+TER
+END
