@@ -1,4 +1,0 @@
-Common CA residues: 249
-Global CA RMSD after superposition: 1.701 A
-Hotspot CA RMSD after local superposition: 0.581 A
-Hotspot residues used: [149, 152, 153, 161, 162, 163]

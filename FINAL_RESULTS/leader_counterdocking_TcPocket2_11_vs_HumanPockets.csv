@@ -1,9 +1,0 @@
-ligand,Human_pocket12,Human_pocket5,Human_pocket9,TcS6_pocket11,TcS6_pocket2,best_human_score,best_human_pocket,best_Tc_score,best_Tc_pocket,delta_best_human_minus_best_Tc
-Bictegravir_fda2257,-5.405,-6.537,-5.893,-6.292,-5.489,-6.537,Human_pocket5,-6.292,TcS6_pocket11,-0.2450000000000001
-Chlorthalidone_fda1453,-4.696,-5.997,-5.085,-5.099,-5.432,-5.997,Human_pocket5,-5.432,TcS6_pocket2,-0.5649999999999995
-Dolutegravir_fda2630,-5.12,-6.847,-5.564,-6.028,-5.423,-6.847,Human_pocket5,-6.028,TcS6_pocket11,-0.8190000000000008
-Raltegravir_fda346,-5.125,-6.656,-5.765,-5.827,-5.683,-6.656,Human_pocket5,-5.827,TcS6_pocket11,-0.8289999999999997
-Baicalin_fda456,-4.94,-6.314,-5.427,-5.461,-5.053,-6.314,Human_pocket5,-5.461,TcS6_pocket11,-0.8529999999999998
-Morin_fda2276,-4.554,-6.32,-4.765,-4.872,-4.826,-6.32,Human_pocket5,-4.872,TcS6_pocket11,-1.4480000000000004
-Kaempferol_fda481,-4.469,-6.26,-4.847,-4.767,-4.705,-6.26,Human_pocket5,-4.767,TcS6_pocket11,-1.4929999999999994
-Apigenin_fda449,-4.56,-6.386,-4.621,-4.789,-4.888,-6.386,Human_pocket5,-4.888,TcS6_pocket2,-1.4980000000000002

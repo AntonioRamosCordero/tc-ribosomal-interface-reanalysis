@@ -1,35 +1,17 @@
-# Exploratory structural bioinformatics analysis of ribosomal S6 interfaces in *Trypanosoma cruzi*
+# CryoEM-based structural reanalysis of ribosomal S6 interfaces in *Trypanosoma cruzi*
 
-This project began as an exploratory attempt to identify electrostatic hotspots and structurally interesting regions in a predicted ribosomal S6 protein from *Trypanosoma cruzi* using structural bioinformatics approaches.
+This repository contains a cleaned structural bioinformatics reanalysis focused on ribosomal S6 proteins in experimentally resolved ribosomal contexts.
 
-During the project, the workflow evolved considerably and ultimately incorporated:
+The current version intentionally removes earlier exploratory AlphaFold-derived analyses that were considered insufficiently robust for the final public dataset.
 
-- APBS-based electrostatic calculations
-- pocket prediction
-- solvent-accessible surface area (SASA) analysis
-- docking and counter-docking
-- comparison against human RPS6
-- cryo-EM structural reevaluation
-- rRNA interface analysis
+The repository is now centered on:
 
-An important aspect of this work is that several initial hypotheses became weakened after deeper structural validation using experimentally resolved ribosomal cryo-EM structures. Because of this, the project gradually shifted from a possible “drug target discovery” perspective toward a more critical comparative structural analysis workflow.
+- *Trypanosoma cruzi* ribosomal S6 extracted from the 5OPT cryo-EM ribosome structure
+- human RPS6 extracted from the 7R4X cryo-EM ribosome structure
+- comparative structural analysis of ribosomal S6 interfaces
+- future reproducible workflows for electrostatics, pocket analysis, solvent exposure and RNA-interface mapping
 
-Although no therapeutic target was validated, the project became valuable as a methodological and learning process involving:
-
-- reproducible computational pipelines
-- structural validation strategies
-- comparative electrostatics
-- protein–RNA interface analysis
-- critical reinterpretation of docking observations
-
-Therefore, this repository is intended primarily as:
-
-- an exploratory structural bioinformatics project
-- a reproducible computational workflow
-- a comparative structural dataset
-- a record of methodological development and structural reevaluation
-
-and not as evidence of a validated therapeutic target or experimentally confirmed inhibitor.
+This repository should not be interpreted as evidence of a validated therapeutic target or experimentally confirmed inhibitor.
 
 ---
 
